@@ -9,3 +9,6 @@ A raspberry pi three is employed because of the hardware element for providing s
 We describe the various parts of our product and that we show that our system works effectively to change on and throw our appliances.
 
 It is an IoT device capable to perform various tasks like home automation, airplay, chrome cast, Voice Assistant, and various API's are Integrated to show information to users like News, Calendar, Reminder, Weather, Spotify, etc.
+
+ISO File:
+https://drive.google.com/drive/folders/1R0nQHPkODUePriQcFNOyCGZFTMDeGMLI?usp=sharing
