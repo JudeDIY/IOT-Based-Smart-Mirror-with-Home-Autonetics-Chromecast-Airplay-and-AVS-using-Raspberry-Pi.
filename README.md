@@ -12,3 +12,5 @@ It is an IoT device capable to perform various tasks like home automation, airpl
 
 ISO File:
 https://drive.google.com/drive/folders/1R0nQHPkODUePriQcFNOyCGZFTMDeGMLI?usp=sharing
+Prototyping Videos and Images:
+https://drive.google.com/drive/folders/1PBh3Leur6AsqkCPDzBg-phP1zyqaohF3?usp=sharing
